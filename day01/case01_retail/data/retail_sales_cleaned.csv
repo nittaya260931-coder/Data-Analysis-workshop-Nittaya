@@ -30,8 +30,8 @@ Date,Region,Branch,Product,Category,Customer_Segment,Quantity,Discount,Sales,Cos
 2026-03-23,South,B11,P-C,Beauty,Returning,6,0.032,4055.58,2303.47,1752.11
 2026-03-14,Central,B07,P-A,Home,New,4,0.06,3651.46,2408.72,1242.75
 2026-01-23,North,B06,P-E,Sports,Returning,7,0.009,9414.82,5796.44,3618.38
-2026-03-17,Central,B04,P-D,Food,Returning,3,0.145,,640.22,165.21
-2026-03-26,East,B05,P-C,Beauty,Returning,7,0.026,4113.6,2321.79,
+2026-03-17,Central,B04,P-D,Food,Returning,3,0.145,805.4300000000001,640.22,165.21
+2026-03-26,East,B05,P-C,Beauty,Returning,7,0.026,4113.6,2321.79,1791.8100000000004
 2026-04-21,South,B02,P-A,Home,New,6,0.147,5203.04,3781.28,1421.75
 2026-02-15,North,B01,P-D,Food,New,3,0.052,948.44,680.09,268.35
 2026-06-09,South,B12,P-E,Sports,Returning,6,0.089,6229.78,4172.48,2057.29
