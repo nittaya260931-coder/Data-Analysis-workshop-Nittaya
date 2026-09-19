@@ -1,0 +1,9 @@
+issue,rows,action,reason
+Region formatting,"5, 19",corrected,Normalized south and SOUTH to South.
+Category label,24,corrected,Electronic is treated as the spelling variant of Electronics.
+Exact duplicate,262,removed duplicate occurrence,The complete row was identical; the first occurrence was retained.
+Missing Sales,33,flagged for review,No business rule was available to infer a replacement value.
+Missing Profit,34,flagged for review,No business rule was available to infer a replacement value.
+Negative Quantity,79,flagged for review,No business rule was available to infer a replacement value.
+Discount outside 0-1,57,flagged for review,No business rule was available to infer a replacement value.
+Negative Profit,"38, 46, 56, 87, 197, 252",flagged for review,No business rule was available to infer a replacement value.
